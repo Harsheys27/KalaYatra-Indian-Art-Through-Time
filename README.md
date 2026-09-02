@@ -16,14 +16,14 @@ KalaYatra transforms this vast history into an interactive visual journey.
 
 Users can explore:
 
-- Ancient civilizations and historical periods
-- Significant Indian artifacts
-- Regional artistic traditions
-- Major Indian art forms
-- Folk and tribal art
-- Painting and miniature traditions
-- Sculpture and architecture
-- Colonial-era artistic movements
+* Ancient civilizations and historical periods
+* Significant Indian artifacts
+* Regional artistic traditions
+* Major Indian art forms
+* Folk and tribal art
+* Painting and miniature traditions
+* Sculpture and architecture
+* Colonial-era artistic movements
 
 The experience is designed to feel less like reading a textbook and more like **walking through a digital museum exhibition**.
 
@@ -35,13 +35,13 @@ The experience is designed to feel less like reading a textbook and more like **
 
 Travel through major periods of Indian artistic history, including:
 
-- Indus Valley Civilization
-- Ancient & Classical India
-- Medieval Indian Art
-- Mughal & Rajput Traditions
-- Regional & Folk Traditions
-- Colonial Period
-- Modern Indian Art
+* Indus Valley Civilization
+* Ancient & Classical India
+* Medieval Indian Art
+* Mughal & Rajput Traditions
+* Regional & Folk Traditions
+* Colonial Period
+* Modern Indian Art
 
 Each period presents historically significant works and contextual information.
 
@@ -51,15 +51,15 @@ Each period presents historically significant works and contextual information.
 
 Discover iconic works and monuments such as:
 
-- Dancing Girl of Mohenjo-daro
-- Indus Valley Seals
-- Ashokan Lion Capital
-- Sanchi Stupa
-- Raja Ravi Varma's paintings
-- Bharat Mata
-- Madhubani Painting
-- Warli Painting
-- And many more
+* Dancing Girl of Mohenjo-daro
+* Indus Valley Seals
+* Ashokan Lion Capital
+* Sanchi Stupa
+* Raja Ravi Varma's paintings
+* Bharat Mata
+* Madhubani Painting
+* Warli Painting
+* And many more
 
 Each artifact is presented with its approximate period, location, artistic form, and historical context.
 
@@ -71,13 +71,13 @@ KalaYatra explores the many artistic languages that developed across the Indian 
 
 Featured categories include:
 
-- Sculpture
-- Painting
-- Architecture
-- Folk Art
-- Miniature Painting
-- Mural Art
-- Textile Art
+* Sculpture
+* Painting
+* Architecture
+* Folk Art
+* Miniature Painting
+* Mural Art
+* Textile Art
 
 The platform highlights how techniques, materials, symbolism, and cultural influences evolved over time.
 
@@ -89,14 +89,14 @@ Explore the geographical diversity of Indian art.
 
 The regional exploration interface highlights traditions from states and regions including:
 
-- Rajasthan
-- Gujarat
-- Maharashtra
-- Madhya Pradesh
-- Bihar
-- Odisha
-- West Bengal
-- Tamil Nadu
+* Rajasthan
+* Gujarat
+* Maharashtra
+* Madhya Pradesh
+* Bihar
+* Odisha
+* West Bengal
+* Tamil Nadu
 
 Users can select a region to discover its distinctive artistic traditions.
 
@@ -106,14 +106,14 @@ Users can select a region to discover its distinctive artistic traditions.
 
 The interface is inspired by contemporary museum exhibitions, combining:
 
-- Dark museum-inspired visual design
-- Warm metallic accents
-- Editorial typography
-- Large-scale artwork presentation
-- Timeline-based navigation
-- Interactive artifact cards
-- Regional exploration
-- Smooth scrolling and transitions
+* Dark museum-inspired visual design
+* Warm metallic accents
+* Editorial typography
+* Large-scale artwork presentation
+* Timeline-based navigation
+* Interactive artifact cards
+* Regional exploration
+* Smooth scrolling and transitions
 
 The goal is to make historical education **visual, immersive, and engaging**.
 
@@ -122,24 +122,28 @@ The goal is to make historical education **visual, immersive, and engaging**.
 ## ✦ Featured Historical Journey
 
 ### 01 — Indus Valley Civilization
+
 **c. 2500–1900 BCE**
 
 One of the world's earliest urban civilizations, known for sophisticated city planning, drainage systems, bronze sculpture, terracotta figures, and carved seals.
 
 **Featured works:**
-- Dancing Girl of Mohenjo-daro
-- Indus Valley Seals
+
+* Dancing Girl of Mohenjo-daro
+* Indus Valley Seals
 
 ---
 
 ### 02 — Ancient & Classical India
+
 **c. 600 BCE–600 CE**
 
 A period of profound artistic, philosophical, and religious development influenced by Buddhism, Jainism, and emerging architectural traditions.
 
 **Featured works:**
-- Ashokan Lion Capital
-- Sanchi Stupa
+
+* Ashokan Lion Capital
+* Sanchi Stupa
 
 ---
 
@@ -148,22 +152,25 @@ A period of profound artistic, philosophical, and religious development influenc
 Across India, folk and tribal traditions developed independently and were passed down through generations.
 
 **Featured traditions:**
-- Madhubani
-- Warli
-- Pattachitra
-- Gond
-- And other regional art forms
+
+* Madhubani
+* Warli
+* Pattachitra
+* Gond
+* And other regional art forms
 
 ---
 
 ### 06 — Colonial Period
+
 **18th–20th Century**
 
 The encounter with European artistic traditions introduced new techniques while also inspiring artists to reclaim and reinterpret Indian identity.
 
 **Featured works:**
-- Raja Ravi Varma's paintings
-- Bharat Mata
+
+* Raja Ravi Varma's paintings
+* Bharat Mata
 
 ---
 
@@ -173,14 +180,14 @@ KalaYatra uses a visual language inspired by physical museums and historical arc
 
 ### Visual Direction
 
-- Deep charcoal / brown backgrounds
-- Warm ivory typography
-- Bronze and gold accent colors
-- Editorial serif headings
-- Minimal navigation
-- Museum-style artifact cards
-- Subtle borders and textures
-- Generous whitespace
+* Deep charcoal / brown backgrounds
+* Warm ivory typography
+* Bronze and gold accent colors
+* Editorial serif headings
+* Minimal navigation
+* Museum-style artifact cards
+* Subtle borders and textures
+* Generous whitespace
 
 The design intentionally avoids the appearance of a conventional educational dashboard and instead creates the feeling of a **curated digital exhibition**.
 
@@ -204,12 +211,15 @@ Discover Regions
 Explore Art Forms
      ↓
 Learn About Indian Artistic Heritage
+```
 
+---
 
-## Authors
+## ✦ Authors
 
+### Harshit Chaturvedi
 
-**Harshit Chaturvedi**  
-*B.Tech Computer Science and Engineering — SRM Institute of Science and Technology*  
+**B.Tech Computer Science and Engineering**
+**SRM Institute of Science and Technology**
 
-
+*Designed and developed KalaYatra as an interactive digital museum experience exploring India's artistic heritage.*
