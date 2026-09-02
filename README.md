@@ -204,3 +204,12 @@ Discover Regions
 Explore Art Forms
      ↓
 Learn About Indian Artistic Heritage
+
+
+## Authors
+
+
+**Harshit Chaturvedi**  
+*B.Tech Computer Science and Engineering — SRM Institute of Science and Technology*  
+
+
