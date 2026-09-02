@@ -222,4 +222,3 @@ Learn About Indian Artistic Heritage
 **B.Tech Computer Science and Engineering**
 **SRM Institute of Science and Technology**
 
-*Designed and developed KalaYatra as an interactive digital museum experience exploring India's artistic heritage.*
